@@ -1,0 +1,5 @@
+package com.astronity.designpattern.proxy;
+
+public interface CommandExecutor {
+    void runCommand(String command);
+}
